@@ -924,7 +924,7 @@ $logoimageurl = "<a href=\"/\"><img src=\"http://media.insidepulse.com/shared/im
 <head>
 
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
-<title>
+<title>DEV
 
 <?php bloginfo('name'); ?>
 
